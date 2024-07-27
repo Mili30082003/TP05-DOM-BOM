@@ -28,4 +28,3 @@ alert ("Lo sentimos, el numero que ingresaste es menor que el numero magico") ;
    } else if (numero_del_usuario > numero_Secreto) {
   alert("Lo sentimos, el numero que ingresaste es mayor que el numero magico") ;
    }}
-
